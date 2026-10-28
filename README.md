@@ -21,7 +21,7 @@ I'm a final-year B.Tech student in Computer Engineering at **J.C. Bose Universit
 - 💻 Full-stack development with **React.js, Node.js, Express.js, FastAPI and Django**
 - ⚡ Real-time apps: video calling, live chat and WebSockets
 - 🧩 Solved **500+ DSA problems** on LeetCode and other coding platforms
-- 🏆 Shortlisted for **Amazon ML Summer School 2026** (31,821 selected from 134,421+ registrations)
+- 🏆 Shortlisted for selection test of **Amazon ML Summer School 2026** (31,821 selected from 134,421+ registrations)
 - 🌱 Always learning by building real projects
 
 ---
